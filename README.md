@@ -1,4 +1,4 @@
-# CNN_Dog_Breed_Classifier
+# CNN Dog Breed Classifier
 
 ## Motivation
 
